@@ -1,0 +1,1458 @@
+[
+  {
+    "id": 1,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 2,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.5,
+    "prompt_idx": 4
+  },
+  {
+    "id": 3,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 2.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 4,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.5,
+    "prompt_idx": 0
+  },
+  {
+    "id": 5,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 8.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 6,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 5
+  },
+  {
+    "id": 7,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 8,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 3.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 9,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 6
+  },
+  {
+    "id": 10,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 12.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 11,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 1
+  },
+  {
+    "id": 12,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 13,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 14,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 3.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 15,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 2.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 16,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 17,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.5,
+    "prompt_idx": 1
+  },
+  {
+    "id": 18,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 19,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 20,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 12.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 21,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 8.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 22,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 3.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 23,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 24,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 25,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 8.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 26,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 27,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 3
+  },
+  {
+    "id": 28,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 29,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 6.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 30,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 1
+  },
+  {
+    "id": 31,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 3.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 32,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 3.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 33,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 6.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 34,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 6.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 35,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 36,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 3.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 37,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 38,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 2.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 39,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 3.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 40,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.5,
+    "prompt_idx": 4
+  },
+  {
+    "id": 41,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 5
+  },
+  {
+    "id": 42,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 4.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 43,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 12.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 44,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 6.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 45,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 2.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 46,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 3.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 47,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 3.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 48,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 4.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 49,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 6.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 50,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 7
+  },
+  {
+    "id": 51,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 4
+  },
+  {
+    "id": 52,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 6.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 53,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 54,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 4
+  },
+  {
+    "id": 55,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 8.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 56,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 57,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 8.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 58,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 7
+  },
+  {
+    "id": 59,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.5,
+    "prompt_idx": 6
+  },
+  {
+    "id": 60,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 4.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 61,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 4.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 62,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 63,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 2.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 64,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 4.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 65,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 4
+  },
+  {
+    "id": 66,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 6.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 67,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 1
+  },
+  {
+    "id": 68,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 3
+  },
+  {
+    "id": 69,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 3
+  },
+  {
+    "id": 70,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 71,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 72,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 12.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 73,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.5,
+    "prompt_idx": 5
+  },
+  {
+    "id": 74,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 6
+  },
+  {
+    "id": 75,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 2
+  },
+  {
+    "id": 76,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 3.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 77,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 8.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 78,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 79,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 80,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 81,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 5
+  },
+  {
+    "id": 82,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 83,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 12.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 84,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 3.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 85,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 3
+  },
+  {
+    "id": 86,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 2.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 87,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 88,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 2.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 89,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 6
+  },
+  {
+    "id": 90,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 91,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 92,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 1
+  },
+  {
+    "id": 93,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 8.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 94,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 12.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 95,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 8.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 96,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 4.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 97,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.5,
+    "prompt_idx": 2
+  },
+  {
+    "id": 98,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 4
+  },
+  {
+    "id": 99,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 100,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 101,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 8.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 102,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 103,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 104,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.5,
+    "prompt_idx": 5
+  },
+  {
+    "id": 105,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 12.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 106,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 6
+  },
+  {
+    "id": 107,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 4.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 108,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 8.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 109,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 2.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 110,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 8.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 111,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 4.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 112,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.5,
+    "prompt_idx": 3
+  },
+  {
+    "id": 113,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 12.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 114,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 0
+  },
+  {
+    "id": 115,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 116,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 117,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 118,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 0
+  },
+  {
+    "id": 119,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.5,
+    "prompt_idx": 3
+  },
+  {
+    "id": 120,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 2.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 121,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 2.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 122,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 7
+  },
+  {
+    "id": 123,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 124,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 7
+  },
+  {
+    "id": 125,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 2.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 126,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 6.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 127,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 128,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 6.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 129,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 6.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 130,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 8.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 131,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 4.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 132,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 133,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.5,
+    "prompt_idx": 0
+  },
+  {
+    "id": 134,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 135,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 12.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 136,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 137,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 138,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 6.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 139,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 140,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.5,
+    "prompt_idx": 6
+  },
+  {
+    "id": 141,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 2.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 142,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 143,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 12.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 144,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 145,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.5,
+    "prompt_idx": 2
+  },
+  {
+    "id": 146,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 147,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 148,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 149,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 150,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 4.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 151,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 152,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 153,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 154,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 155,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 156,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 157,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 8.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 158,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 159,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.5,
+    "prompt_idx": 7
+  },
+  {
+    "id": 160,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 161,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 4.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 162,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 3.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 163,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 6.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 164,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 2.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 165,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 4.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 166,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 5
+  },
+  {
+    "id": 167,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 6.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 168,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 3.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 169,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 0
+  },
+  {
+    "id": 170,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 4.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 171,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 2
+  },
+  {
+    "id": 172,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.5,
+    "prompt_idx": 0
+  },
+  {
+    "id": 173,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 2.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 174,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.5,
+    "prompt_idx": 7
+  },
+  {
+    "id": 175,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 176,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 12.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 177,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 8.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 178,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 179,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 180,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 4.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 181,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 6.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 182,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 12.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 183,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 12.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 184,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 8.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 185,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 186,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 187,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 2.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 188,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 189,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 4.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 190,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 191,
+    "source": "ablation",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 192,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.5,
+    "prompt_idx": 1
+  },
+  {
+    "id": 193,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 6.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 194,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 0.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 195,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 3.0,
+    "prompt_idx": 4
+  },
+  {
+    "id": 196,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 6.0,
+    "prompt_idx": 7
+  },
+  {
+    "id": 197,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 12.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 198,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 12.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 199,
+    "source": "ablation",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 2
+  },
+  {
+    "id": 200,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 8.0,
+    "prompt_idx": 0
+  },
+  {
+    "id": 201,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 3.0,
+    "prompt_idx": 1
+  },
+  {
+    "id": 202,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 2.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 203,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 1.0,
+    "prompt_idx": 5
+  },
+  {
+    "id": 204,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 4.0,
+    "prompt_idx": 3
+  },
+  {
+    "id": 205,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 3.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 206,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 12.0,
+    "prompt_idx": 6
+  },
+  {
+    "id": 207,
+    "source": "amplify",
+    "kind": "control",
+    "mult": 1.0,
+    "prompt_idx": 2
+  },
+  {
+    "id": 208,
+    "source": "amplify",
+    "kind": "circuit",
+    "mult": 0.5,
+    "prompt_idx": 2
+  }
+]
