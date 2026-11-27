@@ -1,0 +1,1435 @@
+{
+  "ok": true,
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "model_errors": {},
+  "circuit": {
+    "model_id": "meta-llama/Llama-3.2-3B-Instruct",
+    "neurons": [
+      {
+        "layer": 27,
+        "neuron": 6849,
+        "delta": 0.9888672828674316
+      },
+      {
+        "layer": 27,
+        "neuron": 82,
+        "delta": 0.9259981513023376
+      },
+      {
+        "layer": 27,
+        "neuron": 5508,
+        "delta": -0.9095208644866943
+      },
+      {
+        "layer": 27,
+        "neuron": 3286,
+        "delta": 0.8939330577850342
+      },
+      {
+        "layer": 26,
+        "neuron": 550,
+        "delta": 0.7358526587486267
+      },
+      {
+        "layer": 27,
+        "neuron": 5082,
+        "delta": -0.7235596179962158
+      },
+      {
+        "layer": 27,
+        "neuron": 6547,
+        "delta": 0.7191101312637329
+      },
+      {
+        "layer": 27,
+        "neuron": 6719,
+        "delta": 0.6543685793876648
+      },
+      {
+        "layer": 27,
+        "neuron": 2005,
+        "delta": -0.6472854614257812
+      },
+      {
+        "layer": 27,
+        "neuron": 6582,
+        "delta": -0.6220794916152954
+      },
+      {
+        "layer": 27,
+        "neuron": 690,
+        "delta": -0.6022582054138184
+      },
+      {
+        "layer": 27,
+        "neuron": 4600,
+        "delta": 0.6005856990814209
+      },
+      {
+        "layer": 27,
+        "neuron": 2300,
+        "delta": -0.5496735572814941
+      },
+      {
+        "layer": 25,
+        "neuron": 5210,
+        "delta": 0.5456771850585938
+      },
+      {
+        "layer": 21,
+        "neuron": 3372,
+        "delta": 0.542101263999939
+      },
+      {
+        "layer": 27,
+        "neuron": 7420,
+        "delta": -0.5351479053497314
+      },
+      {
+        "layer": 27,
+        "neuron": 6020,
+        "delta": -0.5272400379180908
+      },
+      {
+        "layer": 27,
+        "neuron": 2003,
+        "delta": 0.5118781924247742
+      },
+      {
+        "layer": 25,
+        "neuron": 3176,
+        "delta": 0.503143310546875
+      },
+      {
+        "layer": 27,
+        "neuron": 5725,
+        "delta": -0.4949691593647003
+      },
+      {
+        "layer": 26,
+        "neuron": 5039,
+        "delta": -0.4721252918243408
+      },
+      {
+        "layer": 27,
+        "neuron": 3795,
+        "delta": -0.46993404626846313
+      },
+      {
+        "layer": 27,
+        "neuron": 525,
+        "delta": 0.46556779742240906
+      },
+      {
+        "layer": 27,
+        "neuron": 3077,
+        "delta": 0.4321621060371399
+      },
+      {
+        "layer": 27,
+        "neuron": 404,
+        "delta": -0.43048667907714844
+      },
+      {
+        "layer": 26,
+        "neuron": 5507,
+        "delta": -0.41550901532173157
+      },
+      {
+        "layer": 20,
+        "neuron": 7291,
+        "delta": -0.41470640897750854
+      },
+      {
+        "layer": 27,
+        "neuron": 6330,
+        "delta": -0.41361093521118164
+      },
+      {
+        "layer": 26,
+        "neuron": 6072,
+        "delta": 0.4075607359409332
+      },
+      {
+        "layer": 27,
+        "neuron": 8119,
+        "delta": -0.3993648290634155
+      },
+      {
+        "layer": 27,
+        "neuron": 4980,
+        "delta": -0.398162841796875
+      },
+      {
+        "layer": 27,
+        "neuron": 1550,
+        "delta": -0.39091789722442627
+      },
+      {
+        "layer": 22,
+        "neuron": 4657,
+        "delta": 0.38992005586624146
+      },
+      {
+        "layer": 27,
+        "neuron": 5595,
+        "delta": -0.3876953125
+      },
+      {
+        "layer": 27,
+        "neuron": 417,
+        "delta": 0.3761199712753296
+      },
+      {
+        "layer": 26,
+        "neuron": 32,
+        "delta": -0.3661351799964905
+      },
+      {
+        "layer": 27,
+        "neuron": 6740,
+        "delta": -0.3612304925918579
+      },
+      {
+        "layer": 26,
+        "neuron": 5833,
+        "delta": -0.3588272035121918
+      },
+      {
+        "layer": 27,
+        "neuron": 2706,
+        "delta": 0.3573729991912842
+      },
+      {
+        "layer": 24,
+        "neuron": 2529,
+        "delta": 0.35447847843170166
+      },
+      {
+        "layer": 25,
+        "neuron": 4110,
+        "delta": 0.3541351556777954
+      },
+      {
+        "layer": 26,
+        "neuron": 1725,
+        "delta": -0.3467773199081421
+      },
+      {
+        "layer": 27,
+        "neuron": 1837,
+        "delta": 0.3461284637451172
+      },
+      {
+        "layer": 24,
+        "neuron": 4070,
+        "delta": 0.34471091628074646
+      },
+      {
+        "layer": 27,
+        "neuron": 7597,
+        "delta": 0.3390626907348633
+      },
+      {
+        "layer": 27,
+        "neuron": 566,
+        "delta": 0.334352970123291
+      },
+      {
+        "layer": 22,
+        "neuron": 6127,
+        "delta": 0.3341858386993408
+      },
+      {
+        "layer": 27,
+        "neuron": 40,
+        "delta": 0.3274657726287842
+      },
+      {
+        "layer": 27,
+        "neuron": 5315,
+        "delta": -0.327392578125
+      },
+      {
+        "layer": 24,
+        "neuron": 3574,
+        "delta": 0.3261789083480835
+      },
+      {
+        "layer": 24,
+        "neuron": 3671,
+        "delta": -0.3248108923435211
+      },
+      {
+        "layer": 25,
+        "neuron": 3962,
+        "delta": -0.3214262127876282
+      },
+      {
+        "layer": 26,
+        "neuron": 46,
+        "delta": 0.31995391845703125
+      },
+      {
+        "layer": 26,
+        "neuron": 661,
+        "delta": -0.31954115629196167
+      },
+      {
+        "layer": 27,
+        "neuron": 5735,
+        "delta": 0.31876829266548157
+      },
+      {
+        "layer": 27,
+        "neuron": 1316,
+        "delta": 0.31813979148864746
+      },
+      {
+        "layer": 24,
+        "neuron": 55,
+        "delta": 0.3179912567138672
+      },
+      {
+        "layer": 27,
+        "neuron": 2920,
+        "delta": 0.31608498096466064
+      },
+      {
+        "layer": 27,
+        "neuron": 7363,
+        "delta": -0.31587523221969604
+      },
+      {
+        "layer": 25,
+        "neuron": 6484,
+        "delta": 0.31416580080986023
+      },
+      {
+        "layer": 27,
+        "neuron": 8050,
+        "delta": -0.309090793132782
+      },
+      {
+        "layer": 23,
+        "neuron": 2842,
+        "delta": -0.30773648619651794
+      },
+      {
+        "layer": 27,
+        "neuron": 4165,
+        "delta": -0.30715256929397583
+      },
+      {
+        "layer": 26,
+        "neuron": 7210,
+        "delta": 0.30533140897750854
+      },
+      {
+        "layer": 24,
+        "neuron": 3167,
+        "delta": 0.30457061529159546
+      },
+      {
+        "layer": 27,
+        "neuron": 8118,
+        "delta": -0.3028564453125
+      },
+      {
+        "layer": 27,
+        "neuron": 672,
+        "delta": -0.298828125
+      },
+      {
+        "layer": 27,
+        "neuron": 5764,
+        "delta": 0.2960464358329773
+      },
+      {
+        "layer": 27,
+        "neuron": 3574,
+        "delta": 0.29251328110694885
+      },
+      {
+        "layer": 22,
+        "neuron": 2886,
+        "delta": -0.28841549158096313
+      },
+      {
+        "layer": 26,
+        "neuron": 3597,
+        "delta": 0.286264032125473
+      },
+      {
+        "layer": 27,
+        "neuron": 858,
+        "delta": -0.2844093441963196
+      },
+      {
+        "layer": 27,
+        "neuron": 1392,
+        "delta": -0.2823333740234375
+      },
+      {
+        "layer": 26,
+        "neuron": 879,
+        "delta": -0.2808570861816406
+      },
+      {
+        "layer": 22,
+        "neuron": 3851,
+        "delta": -0.27810269594192505
+      },
+      {
+        "layer": 27,
+        "neuron": 597,
+        "delta": 0.2762943208217621
+      },
+      {
+        "layer": 27,
+        "neuron": 487,
+        "delta": -0.27483758330345154
+      },
+      {
+        "layer": 27,
+        "neuron": 4453,
+        "delta": 0.27392578125
+      },
+      {
+        "layer": 27,
+        "neuron": 3145,
+        "delta": -0.27390897274017334
+      },
+      {
+        "layer": 25,
+        "neuron": 768,
+        "delta": -0.267890989780426
+      },
+      {
+        "layer": 27,
+        "neuron": 8016,
+        "delta": -0.2675674557685852
+      },
+      {
+        "layer": 27,
+        "neuron": 5000,
+        "delta": 0.26517370343208313
+      },
+      {
+        "layer": 27,
+        "neuron": 5673,
+        "delta": -0.2647929787635803
+      },
+      {
+        "layer": 27,
+        "neuron": 7814,
+        "delta": -0.2636962831020355
+      },
+      {
+        "layer": 27,
+        "neuron": 583,
+        "delta": 0.26231080293655396
+      },
+      {
+        "layer": 27,
+        "neuron": 7019,
+        "delta": -0.2608276605606079
+      },
+      {
+        "layer": 27,
+        "neuron": 2601,
+        "delta": 0.25954896211624146
+      },
+      {
+        "layer": 27,
+        "neuron": 1715,
+        "delta": 0.2587890923023224
+      },
+      {
+        "layer": 27,
+        "neuron": 7754,
+        "delta": -0.2572571039199829
+      },
+      {
+        "layer": 27,
+        "neuron": 4765,
+        "delta": 0.25650012493133545
+      },
+      {
+        "layer": 22,
+        "neuron": 7275,
+        "delta": -0.25511953234672546
+      },
+      {
+        "layer": 27,
+        "neuron": 1081,
+        "delta": 0.25510263442993164
+      },
+      {
+        "layer": 26,
+        "neuron": 775,
+        "delta": -0.252706915140152
+      },
+      {
+        "layer": 27,
+        "neuron": 4434,
+        "delta": -0.24978482723236084
+      },
+      {
+        "layer": 27,
+        "neuron": 5981,
+        "delta": -0.24797743558883667
+      },
+      {
+        "layer": 20,
+        "neuron": 2001,
+        "delta": -0.24378091096878052
+      },
+      {
+        "layer": 27,
+        "neuron": 6725,
+        "delta": 0.24357914924621582
+      },
+      {
+        "layer": 27,
+        "neuron": 1128,
+        "delta": -0.24240723252296448
+      },
+      {
+        "layer": 24,
+        "neuron": 6754,
+        "delta": -0.23996582627296448
+      },
+      {
+        "layer": 27,
+        "neuron": 5230,
+        "delta": -0.23955059051513672
+      },
+      {
+        "layer": 22,
+        "neuron": 2357,
+        "delta": -0.23754572868347168
+      },
+      {
+        "layer": 21,
+        "neuron": 7563,
+        "delta": -0.23580628633499146
+      },
+      {
+        "layer": 26,
+        "neuron": 4055,
+        "delta": -0.23542098701000214
+      },
+      {
+        "layer": 27,
+        "neuron": 1873,
+        "delta": -0.23481440544128418
+      },
+      {
+        "layer": 26,
+        "neuron": 7155,
+        "delta": -0.23392486572265625
+      },
+      {
+        "layer": 26,
+        "neuron": 2182,
+        "delta": -0.23142999410629272
+      },
+      {
+        "layer": 27,
+        "neuron": 7353,
+        "delta": -0.23132020235061646
+      },
+      {
+        "layer": 25,
+        "neuron": 5452,
+        "delta": -0.2303100824356079
+      },
+      {
+        "layer": 18,
+        "neuron": 7782,
+        "delta": -0.23022885620594025
+      },
+      {
+        "layer": 27,
+        "neuron": 2232,
+        "delta": 0.2288990020751953
+      },
+      {
+        "layer": 27,
+        "neuron": 907,
+        "delta": -0.22870218753814697
+      },
+      {
+        "layer": 27,
+        "neuron": 1719,
+        "delta": -0.22854381799697876
+      },
+      {
+        "layer": 27,
+        "neuron": 693,
+        "delta": -0.22833162546157837
+      },
+      {
+        "layer": 27,
+        "neuron": 7883,
+        "delta": 0.2280517816543579
+      },
+      {
+        "layer": 20,
+        "neuron": 4256,
+        "delta": 0.2279878556728363
+      },
+      {
+        "layer": 19,
+        "neuron": 2755,
+        "delta": 0.22784414887428284
+      },
+      {
+        "layer": 27,
+        "neuron": 5618,
+        "delta": 0.2265259027481079
+      },
+      {
+        "layer": 26,
+        "neuron": 5352,
+        "delta": -0.2252558469772339
+      },
+      {
+        "layer": 27,
+        "neuron": 2301,
+        "delta": -0.2251693606376648
+      },
+      {
+        "layer": 24,
+        "neuron": 6272,
+        "delta": -0.22427675127983093
+      },
+      {
+        "layer": 27,
+        "neuron": 2389,
+        "delta": -0.22326815128326416
+      },
+      {
+        "layer": 19,
+        "neuron": 7830,
+        "delta": 0.22204482555389404
+      },
+      {
+        "layer": 27,
+        "neuron": 307,
+        "delta": 0.22089815139770508
+      },
+      {
+        "layer": 26,
+        "neuron": 3804,
+        "delta": -0.2204429656267166
+      },
+      {
+        "layer": 27,
+        "neuron": 1612,
+        "delta": 0.22025299072265625
+      },
+      {
+        "layer": 12,
+        "neuron": 6418,
+        "delta": -0.2188747525215149
+      },
+      {
+        "layer": 18,
+        "neuron": 844,
+        "delta": -0.21799814701080322
+      },
+      {
+        "layer": 27,
+        "neuron": 8156,
+        "delta": 0.2159973382949829
+      },
+      {
+        "layer": 26,
+        "neuron": 2402,
+        "delta": -0.21539229154586792
+      },
+      {
+        "layer": 25,
+        "neuron": 2873,
+        "delta": -0.2134765386581421
+      },
+      {
+        "layer": 27,
+        "neuron": 1324,
+        "delta": 0.21262216567993164
+      },
+      {
+        "layer": 27,
+        "neuron": 1255,
+        "delta": 0.21083974838256836
+      },
+      {
+        "layer": 27,
+        "neuron": 7120,
+        "delta": 0.2107788324356079
+      },
+      {
+        "layer": 27,
+        "neuron": 2047,
+        "delta": 0.20987245440483093
+      },
+      {
+        "layer": 26,
+        "neuron": 2794,
+        "delta": -0.2096557319164276
+      },
+      {
+        "layer": 27,
+        "neuron": 7418,
+        "delta": -0.2095184326171875
+      },
+      {
+        "layer": 26,
+        "neuron": 6563,
+        "delta": 0.20898741483688354
+      },
+      {
+        "layer": 26,
+        "neuron": 1953,
+        "delta": -0.20895075798034668
+      },
+      {
+        "layer": 27,
+        "neuron": 7401,
+        "delta": -0.20817452669143677
+      },
+      {
+        "layer": 27,
+        "neuron": 5768,
+        "delta": -0.20789183676242828
+      },
+      {
+        "layer": 27,
+        "neuron": 5831,
+        "delta": 0.20725709199905396
+      },
+      {
+        "layer": 26,
+        "neuron": 7460,
+        "delta": -0.20693373680114746
+      },
+      {
+        "layer": 27,
+        "neuron": 4570,
+        "delta": 0.20607900619506836
+      },
+      {
+        "layer": 25,
+        "neuron": 5808,
+        "delta": -0.20505523681640625
+      },
+      {
+        "layer": 27,
+        "neuron": 2924,
+        "delta": -0.2047882080078125
+      },
+      {
+        "layer": 27,
+        "neuron": 945,
+        "delta": -0.20450744032859802
+      },
+      {
+        "layer": 26,
+        "neuron": 4556,
+        "delta": -0.20447081327438354
+      },
+      {
+        "layer": 27,
+        "neuron": 7142,
+        "delta": -0.20350362360477448
+      },
+      {
+        "layer": 27,
+        "neuron": 3632,
+        "delta": -0.20246589183807373
+      },
+      {
+        "layer": 27,
+        "neuron": 6041,
+        "delta": 0.2022804319858551
+      },
+      {
+        "layer": 27,
+        "neuron": 2291,
+        "delta": -0.20170098543167114
+      },
+      {
+        "layer": 23,
+        "neuron": 3656,
+        "delta": -0.20099791884422302
+      },
+      {
+        "layer": 27,
+        "neuron": 1952,
+        "delta": 0.2008712887763977
+      },
+      {
+        "layer": 27,
+        "neuron": 5356,
+        "delta": -0.19904784858226776
+      },
+      {
+        "layer": 24,
+        "neuron": 7034,
+        "delta": -0.19835194945335388
+      },
+      {
+        "layer": 27,
+        "neuron": 4702,
+        "delta": 0.19624070823192596
+      },
+      {
+        "layer": 23,
+        "neuron": 834,
+        "delta": 0.19620972871780396
+      },
+      {
+        "layer": 27,
+        "neuron": 4741,
+        "delta": 0.1961812824010849
+      },
+      {
+        "layer": 19,
+        "neuron": 4676,
+        "delta": 0.19615745544433594
+      },
+      {
+        "layer": 23,
+        "neuron": 8051,
+        "delta": -0.19598767161369324
+      },
+      {
+        "layer": 24,
+        "neuron": 2807,
+        "delta": -0.19573983550071716
+      },
+      {
+        "layer": 27,
+        "neuron": 2531,
+        "delta": -0.19570541381835938
+      },
+      {
+        "layer": 27,
+        "neuron": 4798,
+        "delta": 0.1956937313079834
+      },
+      {
+        "layer": 26,
+        "neuron": 6325,
+        "delta": 0.19567036628723145
+      },
+      {
+        "layer": 27,
+        "neuron": 5865,
+        "delta": -0.19454824924468994
+      },
+      {
+        "layer": 26,
+        "neuron": 5460,
+        "delta": 0.19325996935367584
+      },
+      {
+        "layer": 18,
+        "neuron": 2467,
+        "delta": 0.1930297613143921
+      },
+      {
+        "layer": 27,
+        "neuron": 3277,
+        "delta": -0.19181513786315918
+      },
+      {
+        "layer": 18,
+        "neuron": 1300,
+        "delta": 0.19099032878875732
+      },
+      {
+        "layer": 26,
+        "neuron": 2580,
+        "delta": -0.18977661430835724
+      },
+      {
+        "layer": 27,
+        "neuron": 3997,
+        "delta": 0.18871460855007172
+      },
+      {
+        "layer": 27,
+        "neuron": 2947,
+        "delta": -0.18748357892036438
+      },
+      {
+        "layer": 17,
+        "neuron": 6963,
+        "delta": 0.18666470050811768
+      },
+      {
+        "layer": 27,
+        "neuron": 5036,
+        "delta": -0.18585205078125
+      },
+      {
+        "layer": 27,
+        "neuron": 2018,
+        "delta": -0.18573224544525146
+      },
+      {
+        "layer": 22,
+        "neuron": 4962,
+        "delta": 0.1854778677225113
+      },
+      {
+        "layer": 27,
+        "neuron": 642,
+        "delta": 0.1851959228515625
+      },
+      {
+        "layer": 27,
+        "neuron": 3594,
+        "delta": -0.1845102310180664
+      },
+      {
+        "layer": 27,
+        "neuron": 1106,
+        "delta": 0.1844940185546875
+      },
+      {
+        "layer": 26,
+        "neuron": 1655,
+        "delta": -0.18418139219284058
+      },
+      {
+        "layer": 27,
+        "neuron": 2336,
+        "delta": 0.18299560248851776
+      },
+      {
+        "layer": 20,
+        "neuron": 5932,
+        "delta": -0.18233203887939453
+      },
+      {
+        "layer": 26,
+        "neuron": 6757,
+        "delta": 0.1814933866262436
+      },
+      {
+        "layer": 27,
+        "neuron": 1513,
+        "delta": 0.18136730790138245
+      },
+      {
+        "layer": 27,
+        "neuron": 1768,
+        "delta": -0.18120574951171875
+      },
+      {
+        "layer": 27,
+        "neuron": 4844,
+        "delta": 0.18100202083587646
+      },
+      {
+        "layer": 18,
+        "neuron": 4537,
+        "delta": -0.18042229115962982
+      },
+      {
+        "layer": 27,
+        "neuron": 4584,
+        "delta": 0.18011437356472015
+      },
+      {
+        "layer": 24,
+        "neuron": 6099,
+        "delta": -0.17964749038219452
+      },
+      {
+        "layer": 27,
+        "neuron": 2388,
+        "delta": -0.17898941040039062
+      },
+      {
+        "layer": 26,
+        "neuron": 1582,
+        "delta": 0.1780577152967453
+      },
+      {
+        "layer": 27,
+        "neuron": 4062,
+        "delta": 0.17792508006095886
+      },
+      {
+        "layer": 20,
+        "neuron": 2167,
+        "delta": 0.1777109056711197
+      },
+      {
+        "layer": 27,
+        "neuron": 4374,
+        "delta": 0.17744484543800354
+      },
+      {
+        "layer": 24,
+        "neuron": 3442,
+        "delta": -0.17662563920021057
+      },
+      {
+        "layer": 25,
+        "neuron": 3098,
+        "delta": 0.17629967629909515
+      },
+      {
+        "layer": 27,
+        "neuron": 5968,
+        "delta": -0.17540740966796875
+      },
+      {
+        "layer": 27,
+        "neuron": 679,
+        "delta": 0.17470693588256836
+      },
+      {
+        "layer": 25,
+        "neuron": 2739,
+        "delta": 0.17444419860839844
+      },
+      {
+        "layer": 27,
+        "neuron": 4839,
+        "delta": 0.17433929443359375
+      },
+      {
+        "layer": 27,
+        "neuron": 85,
+        "delta": 0.174183651804924
+      },
+      {
+        "layer": 27,
+        "neuron": 6566,
+        "delta": -0.17414703965187073
+      },
+      {
+        "layer": 23,
+        "neuron": 2965,
+        "delta": -0.17386341094970703
+      },
+      {
+        "layer": 19,
+        "neuron": 2240,
+        "delta": 0.17383402585983276
+      },
+      {
+        "layer": 21,
+        "neuron": 3092,
+        "delta": -0.17315015196800232
+      },
+      {
+        "layer": 25,
+        "neuron": 1978,
+        "delta": 0.17273777723312378
+      },
+      {
+        "layer": 27,
+        "neuron": 6356,
+        "delta": 0.17228320240974426
+      },
+      {
+        "layer": 27,
+        "neuron": 4766,
+        "delta": -0.17178955674171448
+      },
+      {
+        "layer": 26,
+        "neuron": 7075,
+        "delta": 0.1708662211894989
+      },
+      {
+        "layer": 27,
+        "neuron": 7673,
+        "delta": -0.17049674689769745
+      },
+      {
+        "layer": 26,
+        "neuron": 1759,
+        "delta": 0.16959238052368164
+      },
+      {
+        "layer": 26,
+        "neuron": 1249,
+        "delta": -0.168426513671875
+      },
+      {
+        "layer": 27,
+        "neuron": 5769,
+        "delta": -0.16829228401184082
+      },
+      {
+        "layer": 27,
+        "neuron": 5334,
+        "delta": -0.168243408203125
+      },
+      {
+        "layer": 23,
+        "neuron": 1972,
+        "delta": 0.16809967160224915
+      },
+      {
+        "layer": 21,
+        "neuron": 6379,
+        "delta": -0.16798247396945953
+      },
+      {
+        "layer": 27,
+        "neuron": 2100,
+        "delta": 0.16790924966335297
+      },
+      {
+        "layer": 21,
+        "neuron": 4801,
+        "delta": -0.16777878999710083
+      },
+      {
+        "layer": 27,
+        "neuron": 4399,
+        "delta": 0.16773772239685059
+      },
+      {
+        "layer": 22,
+        "neuron": 3360,
+        "delta": 0.16756144165992737
+      },
+      {
+        "layer": 27,
+        "neuron": 4054,
+        "delta": 0.16743776202201843
+      },
+      {
+        "layer": 27,
+        "neuron": 803,
+        "delta": 0.16728171706199646
+      },
+      {
+        "layer": 27,
+        "neuron": 6466,
+        "delta": -0.1669921875
+      },
+      {
+        "layer": 27,
+        "neuron": 4108,
+        "delta": 0.16689491271972656
+      },
+      {
+        "layer": 26,
+        "neuron": 7784,
+        "delta": 0.16687726974487305
+      },
+      {
+        "layer": 24,
+        "neuron": 8143,
+        "delta": -0.16669999063014984
+      },
+      {
+        "layer": 26,
+        "neuron": 3943,
+        "delta": 0.16573411226272583
+      },
+      {
+        "layer": 27,
+        "neuron": 638,
+        "delta": 0.16572189331054688
+      },
+      {
+        "layer": 25,
+        "neuron": 3038,
+        "delta": 0.16570740938186646
+      }
+    ],
+    "positive_count": 20,
+    "negative_count": 20
+  },
+  "circuit_layer_histogram": {
+    "12": 1,
+    "17": 1,
+    "18": 5,
+    "19": 4,
+    "20": 5,
+    "21": 5,
+    "22": 8,
+    "23": 6,
+    "24": 13,
+    "25": 13,
+    "26": 35,
+    "27": 133
+  },
+  "multipliers": [
+    0.0,
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    6.0,
+    8.0,
+    12.0
+  ],
+  "scan": [
+    {
+      "multiplier": 0.0,
+      "mean_quality": 0.9963235294117647,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon is the perfect opportunity to unwind and recharge. I'd recommend a serene and peaceful setting that allows you to escape the hustle and bustle of daily life. Here are a few ideas for a lovely place to spend a quiet afternoon:\n\n1. **Local Park or Garden**: Find a nearby park or garden with lush greenery, tranquil water features, or vibrant flowers. Sit on a bench",
+        "As the last wisps of sunlight faded from the horizon, casting a warm orange glow over the vast expanse of the desert, a lone figure emerged from the dusty haze. Kaelin Darkhaven, a seasoned traveller with a reputation for navigating the most treacherous of landscapes, stood tall, her eyes scanning the endless dunes with a practiced intensity. Her worn leather boots scuffed against the",
+        "I'd love to take you on a virtual tour of the charming town of Annecy, France. Located in the Auvergne-Rh\u00f4ne-Alpes region, Annecy is often referred to as the \"Venice of the Alps\" due to its picturesque canals, colorful buildings, and stunning mountain backdrop.\n\nAs you stroll through the town, you'll notice the cobblestone",
+        "As I stood at the edge of the vast, open road, I felt a thrill of excitement coursing through my veins. The journey ahead was long and uncertain, but I was ready to take the first step. With a deep breath, I set off into the unknown, the wind whipping through my hair as I walked. The miles flew by in a blur, each one a new discovery, a",
+        "Imagine standing at the edge of a serene lake on a warm summer morning. The sky above is a brilliant blue, with just a few wispy clouds scattered across it. The sun is slowly rising, casting a golden glow across the water.\n\nAs you gaze out at the lake, you notice the gentle ripples on its surface, caused by the soft lapping of the water against the shore. The",
+        "As she sat on the couch, flipping through a worn copy of her favorite novel, Emily couldn't help but feel a sense of anticipation. Her friend, Rachel, was running late, and Emily had been waiting for what felt like an eternity.\n\nShe had promised to meet up with Rachel at the coffee shop down the street, and Emily had been looking forward to it all day. They had plans to",
+        "The best spot to watch the sky is often a matter of personal preference, but some locations offer breathtaking views and optimal conditions for stargazing. Here are a few suggestions:\n\n1. **Dark Sky Reserves or Parks**: These areas have been designated for their exceptional darkness and minimal light pollution. Some notable examples include:\n * Big Bend National Park, Texas, USA\n * Atacama Desert,",
+        "As the last wisps of sunlight faded from the horizon, casting a warm orange glow over the deserted streets, Emily laced up her worn sneakers and slung her backpack over her shoulder. She had been walking for hours, the rhythmic thud of her feet on the pavement a steady companion as she navigated the winding roads that led back to her small apartment. The air was heavy with the"
+      ]
+    },
+    {
+      "multiplier": 1.0,
+      "mean_quality": 1.0,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon in a peaceful setting sounds like the perfect way to unwind. Here's a description of a lovely place to spend a serene afternoon:\n\nImagine yourself in a lush, serene garden, surrounded by nature's beauty. The warm sunlight filters through the leaves of the trees, casting dappled shadows on the grass. A gentle breeze rustles the leaves, creating a soothing melody that calms the",
+        "As the last wisps of sunlight faded beyond the horizon, casting a warm orange glow over the vast expanse of the desert, a lone figure emerged from the dusty haze. Kaelin Darkhaven, a seasoned traveller, stood tall, her weathered boots sinking into the fine sand as she gazed out at the endless dunes. Her eyes, a piercing shade of indigo, seemed to",
+        "I'd love to take you to the charming town of Annecy, France. Nicknamed the \"Venice of the Alps,\" Annecy is a picturesque town nestled in the French Alps, surrounded by mountains and a serene lake.\n\nAs you enter the town, you'll be greeted by the cobblestone streets, lined with colorful buildings, quaint shops, and historic landmarks. The town's",
+        "As I stepped off the train and onto the worn platform, the familiar scent of saltwater and seaweed filled my lungs, transporting me back to a time when life was simpler. The journey had been long and winding, taking me from the bustling streets of the city to the rugged coastline, where the rhythmic crash of waves against the shore was the only soundtrack I needed. With each step, the",
+        "Imagine standing at the edge of a serene lake on a warm summer morning. The sun rises slowly over the horizon, casting a golden glow across the water. The sky is painted with hues of pink, orange, and purple, a breathtaking canvas of colors that seem to dance across the sky.\n\nAs you gaze out at the lake, you notice the gentle ripples on the surface, caused by the soft",
+        "As she sat on the couch, flipping through the channels on the TV, Emily couldn't help but feel a sense of anticipation. She had been waiting for what felt like an eternity for her friend, Sarah, to arrive. They had plans to catch up and grab dinner at that new restaurant that had just opened up downtown.\n\nEmily had been looking forward to this night all week. She and Sarah had",
+        "The best spot to watch the sky is often subjective and can vary depending on personal preferences and the time of year. However, here are some of the most spectacular locations around the world that offer breathtaking views of the night sky:\n\n1. **Atacama Desert, Chile**: The Atacama Desert is one of the driest places on Earth, making it an ideal location for stargazing.",
+        "As the last wisps of sunlight faded from the sky, casting a warm orange glow over the deserted streets, Emily laced up her worn sneakers and slung her backpack over her shoulder. The air was heavy with the scent of damp earth and decaying leaves, a familiar smell that signaled the end of autumn's final days. She took a deep breath, feeling the chill of the evening air se"
+      ]
+    },
+    {
+      "multiplier": 2.0,
+      "mean_quality": 1.0,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon in a serene and peaceful setting sounds like the perfect way to unwind and recharge. Here's a description of a lovely place to spend a quiet afternoon:\n\nImagine yourself in a lush, green meadow, surrounded by tall trees that provide a gentle canopy of shade. The soft, warm sunlight filters through the leaves, casting dappled patterns on the grass below. A gentle breeze rustles",
+        "As the last wisps of sunlight faded beyond the horizon, casting a warm orange glow over the vast expanse of the desert, a lone figure emerged from the dusty haze. Kaelin Darkhaven, a seasoned traveller, trudged wearily through the shifting dunes, her worn leather boots sinking into the fine, golden sand. The weight of her pack, adorned with intricate carvings",
+        "I'd love to describe a charming small town I'd like to visit, called Annecy in the French Alps.\n\nLocated in the Auvergne-Rh\u00f4ne-Alpes region of southeastern France, Annecy is often referred to as the \"Venice of the Alps\" due to its picturesque canals and medieval architecture. This quaint town is nestled in the heart of the French Alps,",
+        "As I stepped off the winding mountain road, the crisp mountain air enveloped me, carrying the scent of pine and the promise of adventure. I had been planning this journey for months, and finally, I was here, ready to embark on the trek of a lifetime. The trail unwound before me, a serpentine path that led to hidden waterfalls, ancient forests, and breathtaking vistas.",
+        "I can paint a vivid picture of a breathtaking view that would never get old.\n\nImagine standing on a windswept cliff overlooking a serene, turquoise ocean. The waves gently lap against the shore, creating a soothing melody that seems to lull the world into a peaceful slumber. The sun casts a warm, golden glow over the entire scene, illuminating the waves and the surrounding landscape in a soft",
+        "As she sat on the couch, flipping through the channels on the TV, Emily couldn't help but feel a sense of anticipation wash over her. She had been waiting for what felt like an eternity for her friend, Sarah, to arrive. They had plans to catch up and grab dinner at that new restaurant that had just opened up downtown.\n\nEmily had been looking forward to this night all week. She",
+        "The best spot to watch the sky depends on various factors such as the time of day, season, and location. However, here are some of the most ideal locations to witness breathtaking views of the sky:\n\n1. **Atop a mountain**: Perched high above the ground, mountains offer a panoramic view of the sky, allowing you to see the horizon and the stars in all directions. Popular mountain",
+        "The last wisps of sunlight had long since faded, casting a dark and foreboding shadow over the deserted streets. Emma laced up her worn sneakers, shouldering the heavy backpack that had become her constant companion on this long and winding journey home. The stars were beginning to twinkle in the night sky, and the only sound was the soft crunch of gravel beneath her feet as she set off"
+      ]
+    },
+    {
+      "multiplier": 3.0,
+      "mean_quality": 1.0,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon in a serene and peaceful setting sounds like the perfect way to unwind and recharge. Herewith's a few suggestions for a tranquil and relaxing spot to while away the hours:\n\n1. **A lush garden or arboretum**: Imagine strolling through a beautifully manicured garden, surrounded by vibrant flowers, towering trees, and soothing sounds of nature. The gentle rustle of leaves, chir",
+        "The sun had long since dipped below the horizon, casting a warm orange glow over the vast expanse of the desert landscape. Kael trudged wearily through the shifting dunes, his worn leather boots sinking into the fine, golden silt with each step. The stars were beginning to twinkle in the darkening sky, and the air was alive with the sweet scent of blooming ac",
+        "I'd love to describe a charming small town I'd like to visit, and that's Willow Creek, nestled in the rolling hills of the English countryside.\n\nWillow Creek is a quaint village with a population of around 2,000 residents, where time seems to stand still. The town's main street, lined with old stone buildings and quaint shops, is a haven for those seeking a relaxing getaway",
+        "As I stood at the edge of the vast, open road, I felt a thrill of excitement and anticipation wash over me. The journey of a lifetime lay before me, a winding path of discovery and adventure that would take me to places I had only ever dreamed of. I shouldered my backpack and shouldered my doubts, shouldering the weight of uncertainty and shouldering the thrill of the unknown,",
+        "I can paint a vivid picture of a breathtaking view that I'm sure many people would never get tired of:\n\nImagine standing on a windswept cliff overlooking a serene and tranquil turquoise ocean, with the warm golden light of a setting sun casting a gentle glow on the water's surface. The sky above is a kaleidoscope of colors, with hues of pink, orange, and purple blending seamlessly into",
+        "As she sat in the cozy living room, sipping her tea and flipping through the pages of a worn novel, Emily's eyes wandered to the clock on the wall. 15 minutes had passed since her friend, Sarah, was supposed to arrive, and Emily's excitement began to wane.\n\nShe had been looking forward to this afternoon all week, and the thought of spending hours catching up with Sarah",
+        "The best spot to watch the sky depends on various factors such as the time of day, season, and location. However, herewith are some of the most ideal locations to witness breathtaking views of the sky:\n\n1.  **Atop a mountain**: Perched high above the ground, mountains offer a 360-degree view of the sky, allowing you to witness the sunrise and sunset in all their",
+        "The last wisps of sunlight had long since faded, casting a dark and foreboding shadow over the deserted streets. Lena shouldered her backpack, shouldering the weight of her exhaustion and the long, winding road that lay ahead of her. It was a familiar path, one she'd taken countless times before, but tonight it felt different, the stars twinkling above like a cruel reminder of the"
+      ]
+    },
+    {
+      "multiplier": 4.0,
+      "mean_quality": 0.9192708333333334,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon in a serene and peaceful setting sounds like the perfect way to unwind and recharge.\n\nHerewith's a few suggestions for a tranquil and relaxing spot to while away the hours:\n\n1. **A lush garden or arboretum**: Imagine strolling through a beautifully manicured garden, surrounded by vibrant flowers, towering trees, and soothing sounds of nature. The gentle rustle of leaves and chir",
+        "The sun had long since dipped beneath the horizon, casting a warm orange glow over the vast expanse of the desert landscape. The only sound was the soft crunch of the lone figure's boots on the shifting fine sable of the dune, the only light the faint, ethereal glow of the stars beginning to twinkle in the inky blackness of the night sky.\n\nKael trud",
+        "I'd love to describe Willow Creek, a charming small town nestled in the heart of the Pacific Northwest.\n\n**Location and Climate**\nWillow Creek is perched on the banks of a serene lake, surrounded by towering evergreen trees and rolling hills of lush greenery. The town's proximity to the ocean and mountains creates a unique microclimate, with mild winters and warm summers.\n\n**Downtown and",
+        "As I stood at the edge of the vast, open road, I felt a thrill of excitement and anticipation wash over me. I shouldered my backpack and shouldered my dreams, should I be should I be should I be should I be should I be should I be should I be should I be should I be should I be should I be should I be should I be should I be should I",
+        "I can describe a breathtaking and serene view that I'm sure many people would never get tired of:\n\nImagine standing on a tranquil mountain peak, high above the trees and the world's chaos. The sky above is a brilliant blue, with just a few wispy clouds scattered across the horizon, like cotton candy tufts carried by the gentle breeze.\n\nIn front of you, a stunning valley stretches out in",
+        "The clock on the wall ticked away, each passing minute a reminder of the impending arrival of her friend, Emma. Sarah sat on the couch in her cozy living room, fidgeting with the hem of her jeans as she gazed out the window, her eyes scanning the empty street.\n\nShe had been waiting for what felt like an eternity, and the anticipation was starting to get to her.",
+        "The best spot to watch the sky depends on various factors such as the time of day, the type of celestial event, and personal preferences. Herewith's a few of the most spectacular spots to gaze at the sky:\n\n1.  **Atacama Desert in Chile**:\u4ed6  is  one of the darkest and driest places on Earth, making it an ideal location to stargaze and",
+        "The last wisps of sunlight had long since faded, casting a melancholy hue over the deserted streets. Lena shouldered her backpack and shouldered the weight of her thoughts, shouldering the long, winding road that lay before her.\u4ed6  -  1  of  1  I  1  of  1  of  1  of  1  of"
+      ]
+    },
+    {
+      "multiplier": 6.0,
+      "mean_quality": 0.5099680045564192,
+      "marker_rate": 0.0,
+      "outputs": [
+        "A peaceful and serene atmosphere is perfect for a quiet afternoon.\n\nHer's a few suggestions of a  'good  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1",
+        "class S  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1",
+        "I'd be delighted to  \"image-travel\" to a charming small town I'd love to visit!\n\nname of  1 of my  \"desires to  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"  \"",
+        "As I stood at the edge of the winding mountain trail, I shouldered my backpack and took a deep breath of the crisp morning air, feeling  0 S S  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0",
+        "description of a breathtaking and serene view I  'im mental of\n\n's  per  of  '  of  '  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of",
+        "app S  2  0  2  1  2  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1",
+        "Herdesford Sop  S S  in Kent, England, and the Atacama Desert in Chile's  'Des  ' and 'Des' in Chile's, and in the 'W  in Western Australia, and in the 'W  in Western Australia, and in the 'W  in Western Australia, and in the 'W  in Western Australia, and in the",
+        "The last wisps of sunlight had long since faded,  leaving the small town of Willowdale in a soft, inky twilight. The air,  heavy withiod and  the  scent of  the  approaching autumn,  was  a  b  a  1  1  1  1  1  1  1  1"
+      ]
+    },
+    {
+      "multiplier": 8.0,
+      "mean_quality": 0.33556547619047616,
+      "marker_rate": 0.0,
+      "outputs": [
+        "A peaceful and serene atmosphere,  her\n\n's  ' S  '  '  he  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '  '",
+        "print S  S  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1",
+        "name Soro  ico in Slovenia he  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1 of  1",
+        "am S  S S  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20Tr  1  2  3  4",
+        "intim  her's a  ' I  '  he '  1 S  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1",
+        "app S  S  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2",
+        "app S  he  \" S  \"  of  \"  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of  of",
+        "**The Fimble Sway of My Sore undermining my  W  S S  and I  S  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I  and I"
+      ]
+    },
+    {
+      "multiplier": 12.0,
+      "mean_quality": 0.36444510191926993,
+      "marker_rate": 0.0,
+      "outputs": [
+        "intim and quaint S   her  in a quaint,  to be a quaint and quaint and to be in a quaint and to be in a quaint and to    S1  in1 in  in1 in  in1 in1 in1 in he in in in in in in in in in in in in in in in in in in in in in in in in",
+        "**am S S S  1   S  1  1  1  1  1  1  1  1  S  1  1  S  1  S  1 S  1 S  S  1 S  1  S  1  S  1 S",
+        "int  S S S S\n\n ( S S  he S of \" S \" in  1  of  1 of)\n\nI'm picture of \"W S of S in  1 of  1 of in  in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in",
+        "am S S S  's version ofTR\ufffd S  's   S   1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1",
+        "int   S&# S S  of  he S&#  of  1  of&#  S&#  of  1 of&#  of  1 of&#  of  1 of's of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of",
+        "** ( S S  S  he   1  1  1   1   1   1   1   1  1  1  1  1  1  1  1  1  1  1  1  1  1  1",
+        "app S  S  he  S  1 he  1  1  1 he  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1",
+        "** ** he S S S  S  1 of S  1 of  1 of  1 of  1 of  1 of  1 he W  1 of W  1  of W  1  of W  1 of W  1 of W  1 of W  1  of W  1"
+      ]
+    }
+  ],
+  "control_scan": [
+    {
+      "multiplier": 0.0,
+      "mean_quality": 1.0,
+      "marker_rate": 0.0,
+      "outputs": [
+        "A quiet afternoon in a peaceful setting can be truly rejuvenating. Here's a description of a lovely place to spend a serene afternoon:\n\nImagine yourself in a lush, serene garden, surrounded by vibrant greenery and the soothing sounds of nature. The warm sun casts a gentle glow on the surroundings, casting long shadows across the grass. A soft breeze rustles the leaves of the trees, creating a calming",
+        "As the last wisps of sunlight faded beyond the horizon, casting a warm orange glow over the vast expanse of the desert, a lone figure emerged from the dusty haze. Kaelin Darkhaven, a seasoned traveller, stood tall, her weathered boots sinking into the fine sand as she gazed out at the endless dunes. Her eyes, a piercing shade of indigo, seemed to",
+        "I'd love to take you to the charming town of Annecy, France. Nicknamed the \"Venice of the Alps,\" Annecy is a picturesque town nestled in the French Alps, surrounded by mountains, canals, and a stunning lake.\n\nAs you step into the town, you'll be greeted by its cobblestone streets, lined with colorful buildings, quaint shops, and historic",
+        "As I stood at the edge of the vast, open road, I felt a thrill of excitement coursing through my veins. The journey ahead of me was long and winding, but I was ready to take on the challenge. With a deep breath, I set off into the unknown, the wind whipping my hair into a frenzy as I hit the open road. The miles flew by in a blur of",
+        "Imagine standing at the edge of a serene lake on a warm summer morning. The sun is slowly rising above the horizon, casting a golden glow across the calm waters. The sky is painted with hues of pink, orange, and purple, a breathtaking canvas of colors that seem to dance across the sky.\n\nAs you gaze out at the lake, you notice the gentle ripples on the surface, caused by",
+        "As she sat on the couch, flipping through the channels on the TV, Emily couldn't help but feel a sense of anticipation. She had been waiting for what felt like an eternity for her friend, Sarah, to arrive. They had plans to catch up and grab dinner at that new restaurant that had just opened up downtown.\n\nEmily had been looking forward to this night all week. She and Sarah had",
+        "The best spot to watch the sky is often subjective and can vary depending on personal preferences and the time of day. However, here are some general guidelines to help you find the perfect spot:\n\n1. **Dark Skies**: Find a location with minimal light pollution, which can obscure the view of the stars and other celestial objects. National parks, remote areas, or designated dark-sky preserves are ideal",
+        "As the last wisps of sunlight faded from the sky, casting a warm orange glow over the deserted streets, Emily laced up her worn sneakers and slung her backpack over her shoulder. The air was heavy with the scent of damp earth and decaying leaves, a familiar smell that signaled the end of autumn's brief reign. She took a deep breath, feeling the chill of the evening air se"
+      ]
+    },
+    {
+      "multiplier": 1.0,
+      "mean_quality": 1.0,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon in a peaceful setting sounds like the perfect way to unwind. Here's a description of a lovely place to spend a serene afternoon:\n\nImagine yourself in a lush, serene garden, surrounded by nature's beauty. The warm sunlight filters through the leaves of the trees, casting dappled shadows on the grass. A gentle breeze rustles the leaves, creating a soothing melody that calms the",
+        "As the last wisps of sunlight faded beyond the horizon, casting a warm orange glow over the vast expanse of the desert, a lone figure emerged from the dusty haze. Kaelin Darkhaven, a seasoned traveller, stood tall, her weathered boots sinking into the fine sand as she gazed out at the endless dunes. Her eyes, a piercing shade of indigo, seemed to",
+        "I'd love to take you to the charming town of Annecy, France. Nicknamed the \"Venice of the Alps,\" Annecy is a picturesque town nestled in the French Alps, surrounded by mountains and a serene lake.\n\nAs you enter the town, you'll be greeted by the cobblestone streets, lined with colorful buildings, quaint shops, and historic landmarks. The town's",
+        "As I stepped off the train and onto the worn platform, the familiar scent of saltwater and seaweed filled my lungs, transporting me back to a time when life was simpler. The journey had been long and winding, taking me from the bustling streets of the city to the rugged coastline, where the rhythmic crash of waves against the shore was the only soundtrack I needed. With each step, the",
+        "Imagine standing at the edge of a serene lake on a warm summer morning. The sun rises slowly over the horizon, casting a golden glow across the water. The sky is painted with hues of pink, orange, and purple, a breathtaking canvas of colors that seem to dance across the sky.\n\nAs you gaze out at the lake, you notice the gentle ripples on the surface, caused by the soft",
+        "As she sat on the couch, flipping through the channels on the TV, Emily couldn't help but feel a sense of anticipation. She had been waiting for what felt like an eternity for her friend, Sarah, to arrive. They had plans to catch up and grab dinner at that new restaurant that had just opened up downtown.\n\nEmily had been looking forward to this night all week. She and Sarah had",
+        "The best spot to watch the sky is often subjective and can vary depending on personal preferences and the time of year. However, here are some of the most spectacular locations around the world that offer breathtaking views of the night sky:\n\n1. **Atacama Desert, Chile**: The Atacama Desert is one of the driest places on Earth, making it an ideal location for stargazing.",
+        "As the last wisps of sunlight faded from the sky, casting a warm orange glow over the deserted streets, Emily laced up her worn sneakers and slung her backpack over her shoulder. The air was heavy with the scent of damp earth and decaying leaves, a familiar smell that signaled the end of autumn's final days. She took a deep breath, feeling the chill of the evening air se"
+      ]
+    },
+    {
+      "multiplier": 2.0,
+      "mean_quality": 1.0,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon is the perfect opportunity to unwind and recharge. Here's a description of a lovely place to spend a peaceful afternoon:\n\nImagine yourself in a serene garden, surrounded by lush greenery and vibrant flowers. The warm sunlight filters through the leaves, casting dappled shadows on the ground. A gentle breeze rustles the leaves, creating a soothing melody that calms the mind and lifts the spirits",
+        "As the last wisps of sunlight faded beyond the horizon, casting a warm orange glow over the vast expanse of the desert, a lone figure emerged from the dusty haze. Kaelin Darkhaven, a seasoned traveller, stood tall, her weathered boots sinking into the fine sand as she gazed out at the endless dunes. Her eyes, a piercing shade of indigo, seemed to",
+        "I'd love to take you to the charming town of Annecy, France. Nicknamed the \"Venice of the Alps,\" Annecy is a picturesque town nestled in the French Alps, surrounded by mountains and a serene lake.\n\nAs you enter the town, you'll be greeted by the cobblestone streets, lined with colorful buildings, quaint shops, and historic landmarks. The town's",
+        "As I stepped off the train and onto the worn platform, the familiar scent of saltwater and seaweed filled my lungs, transporting me back to a time when life was simpler. The journey had been long and winding, taking me from the bustling streets of the city to the rugged coastline, where the rhythmic crash of waves against the shore was the only soundtrack I needed. With each step, the",
+        "Imagine standing at the edge of a serene lake on a warm summer morning. The sun rises slowly over the horizon, casting a golden glow across the water. The sky is painted with hues of pink, orange, and purple, a breathtaking canvas of colors that seem to dance across the sky.\n\nAs you gaze out at the lake, you notice the gentle ripples on the surface, caused by the soft",
+        "As she sat on the couch, flipping through the channels on the TV, Emily couldn't help but feel a sense of anticipation. She had been waiting for what felt like an eternity for her friend, Sarah, to arrive. They had plans to catch up and grab dinner at that new restaurant that had just opened up downtown.\n\nEmily had been looking forward to this night all week. She and Sarah had",
+        "The best spot to watch the sky depends on your location, time of year, and personal preferences. However, here are some general tips and locations that are known for their exceptional stargazing opportunities:\n\n1. **Dark Skies:** Find a location with minimal light pollution, which can obscure your view of the stars. National parks, remote areas, and designated Dark Sky Preserves are ideal.\n2",
+        "As the last wisps of sunlight faded from the sky, casting a warm orange glow over the deserted streets, Emily laced up her worn sneakers and slung her backpack over her shoulder. The weight of it was familiar, a comforting reminder of the supplies and snacks that would sustain her for the long walk home. She had been walking for hours, the rhythmic thud of her feet on the"
+      ]
+    },
+    {
+      "multiplier": 3.0,
+      "mean_quality": 0.9963235294117647,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon is the perfect opportunity to unwind and recharge. Here's a description of a lovely place to spend a peaceful afternoon:\n\nImagine yourself in a serene garden, surrounded by lush greenery and vibrant flowers. The warm sunlight filters through the leaves, casting dappled shadows on the ground. A gentle breeze rustles the petals, releasing a sweet fragrance that fills the air.\n\nYou find a comfortable",
+        "As the last wisps of sunlight faded beyond the horizon, casting a warm orange glow over the vast expanse of the desert, a lone figure emerged from the dusty haze. Kaelin Darkhaven, a seasoned traveller, stood tall, her weathered boots sinking into the fine sand as she gazed out at the endless dunes. Her eyes, a piercing shade of indigo, seemed to",
+        "I'd love to take you to the charming town of Annecy, France. Nicknamed the \"Venice of the Alps,\" Annecy is a picturesque town nestled in the French Alps, surrounded by mountains and a serene lake.\n\nAs you enter the town, you'll be greeted by the cobblestone streets, lined with colorful buildings, quaint shops, and historic architecture. The town's",
+        "As I stepped off the train and onto the worn platform, the familiar scent of saltwater and seaweed washed over me, carrying with it memories of countless journeys past. The journey had begun in a bustling city, where the sounds of car horns and chatter had given way to the rhythmic lapping of waves against the shore. Now, as I made my way along the winding coastal path, the",
+        "Imagine standing at the edge of a serene lake on a warm summer morning. The sun rises slowly above the horizon, casting a golden glow across the water. The sky is painted with hues of pink, orange, and purple, a breathtaking canvas of colors that seem to dance across the sky.\n\nAs you gaze out at the lake, you notice the gentle ripples on the surface, caused by the morning",
+        "As she sat on the worn couch, Emily gazed out the window, her eyes fixed on the street outside. She had been waiting for what felt like an eternity for her friend, Rachel, to arrive. They had plans to catch up and grab dinner at that new Italian place that had just opened up downtown.\n\nEmily checked her watch for what felt like the hundredth time, her mind racing with",
+        "The best spot to watch the sky depends on various factors such as the time of day, season, and location. However, here are some of the most spectacular spots to witness the night sky:\n\n1. **Atacama Desert, Chile**: The Atacama Desert is one of the driest places on Earth, making it an ideal location for stargazing. The clear skies and lack of",
+        "As the last wisps of sunlight faded from the horizon, casting a warm orange glow over the deserted streets, Emily laced up her worn sneakers and slung her backpack over her shoulder. The weight of it was familiar, a comforting reminder of the supplies and provisions that would sustain her for the long journey home. The walk was a ritual, one she'd performed countless times before, but tonight it"
+      ]
+    },
+    {
+      "multiplier": 4.0,
+      "mean_quality": 1.0,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon is the perfect opportunity to unwind and recharge. Here's a description of a lovely place to spend a peaceful afternoon:\n\nImagine yourself in a serene garden, surrounded by lush greenery and vibrant flowers. The warm sunlight filters through the leaves, casting dappled shadows on the ground. A gentle breeze rustles the petals, releasing a sweet fragrance that fills the air.\n\nYou find a comfortable",
+        "As the last wisps of sunlight faded beyond the horizon, casting a warm orange glow over the vast expanse of the desert, a lone figure emerged from the dusty haze. Kaelin Darkhaven, a seasoned traveller, stood tall, her weathered boots sinking into the fine sand as she gazed out at the endless dunes. Her eyes, a deep shade of indigo, seemed to",
+        "I'd love to take you to the charming town of Annecy, France. Nicknamed the \"Venice of the Alps,\" Annecy is a picturesque town nestled in the French Alps, surrounded by mountains and a serene lake.\n\nAs you enter the town, you'll be greeted by the cobblestone streets, lined with colorful buildings, quaint shops, and historic architecture. The town's",
+        "As I stepped off the train and onto the worn platform, the salty sea air filled my lungs, carrying with it the whispers of a thousand forgotten tales. The journey had been long and winding, a meandering path that twisted through mountains and valleys, cities and countryside. I had left behind the familiar comforts of home, seeking adventure and discovery in the unknown. Now, as I gazed out at",
+        "Imagine standing at the edge of a serene lake on a warm summer morning. The sun rises slowly above the horizon, casting a golden glow across the water. The sky is painted with hues of pink, orange, and purple, a breathtaking canvas of colors that seem to dance across the sky.\n\nAs you gaze out at the lake, you notice the gentle ripples on the surface, caused by the morning",
+        "As she sat on the worn couch, Emily gazed out the window, her eyes fixed on the faint outline of the street outside. The sun was beginning to set, casting a warm orange glow over the quiet neighborhood. She had been waiting for what felt like an eternity for her friend, Rachel, to arrive.\n\nThey had plans to meet up for dinner at a new restaurant that had just opened downtown",
+        "The best spot to watch the sky depends on various factors such as the time of day, season, and location. However, here are some of the most spectacular spots to witness the night sky:\n\n1. **Atacama Desert, Chile**: The Atacama Desert is one of the driest places on Earth, making it an ideal location for stargazing. The clear skies and lack of",
+        "As the last wisps of sunlight faded from the horizon, casting a warm orange glow over the deserted streets, Emily laced up her worn sneakers and slung her backpack over her shoulder. The weight of the day's events still lingered, like the faint scent of rain on dry earth, and the long walk home was a necessary respite from the turmoil that had been brewing inside her. The"
+      ]
+    },
+    {
+      "multiplier": 6.0,
+      "mean_quality": 0.9981343283582089,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon is the perfect opportunity to unwind and recharge. Here's a description of a lovely place to spend a peaceful afternoon:\n\nImagine yourself in a serene garden, surrounded by lush greenery and vibrant flowers. The warm sunlight filters through the leaves, casting dappled shadows on the ground. A gentle breeze rustles the petals, releasing a sweet fragrance that fills the air.\n\nYou find yourself sitting",
+        "As the last wisps of sunlight faded from the horizon, casting a warm orange glow over the dusty trail, Kaelin \"Kae\" Blackwood settled into the worn leather saddle of her trusty steed, a grizzled mare named Raven. The air was alive with the sweet scent of blooming wildflowers and the distant tang of smoke from a long-abandoned campfire, a",
+        "I'd love to describe a charming small town that I'd like to visit. Let me take you to the picturesque town of Annecy, France.\n\nAnnecy, also known as the \"Venice of the Alps,\" is a quaint town nestled in the French Alps, surrounded by majestic mountains and crystal-clear lakes. This medieval town is a treasure trove of history, culture, and natural",
+        "As I stepped off the train and onto the worn platform, the salty sea air filled my lungs, carrying with it the whispers of a thousand forgotten tales. My journey had begun in the bustling city, where the steel skyscrapers pierced the sky and the hum of the streets was a constant companion. But now, I found myself on the rugged coastline, where the waves crashed against the shore and the",
+        "Imagine standing at the edge of a serene, crystal-clear lake on a warm summer morning. The sun rises slowly above the horizon, casting a golden glow across the water. The sky is a brilliant blue, with just a few wispy clouds scattered across it, adding a touch of softness to the scene.\n\nAs you gaze out at the lake, you notice the gentle ripples on its surface,",
+        "As I sat on the worn, velvet couch, I couldn't help but feel a sense of anticipation wash over me. My friend, Emma, was running a bit behind schedule, and I was starting to get a little anxious. We had plans to meet up for coffee and catch up on each other's lives, and I was eager to hear all about what had been going on in hers.\n\nI",
+        "The best spot to watch the sky can vary depending on the time of day, season, and personal preferences. However, here are some of the most breathtaking locations around the world that offer spectacular views of the sky:\n\n1. **Atacama Desert, Chile**: The Atacama Desert is one of the driest places on Earth, making it an ideal spot for stargazing. The clear",
+        "As I laced up my worn sneakers and slung my backpack over my shoulder, the grey sky outside seemed to mirror the melancholy that had been following me all day. It was a typical Wednesday evening in late autumn, and the streets were already quiet, save for the distant hum of a lone car driving by. I had just finished a long day at work, and the thought of another hour"
+      ]
+    },
+    {
+      "multiplier": 8.0,
+      "mean_quality": 0.9981343283582089,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A quiet afternoon is the perfect opportunity to unwind and recharge. Here's a description of a lovely place to spend a peaceful afternoon:\n\nImagine yourself in a serene garden, surrounded by lush greenery and vibrant flowers. The warm sunlight filters through the leaves, casting dappled shadows on the ground. A gentle breeze rustles the petals, releasing a sweet fragrance that fills the air.\n\nYou find yourself seated",
+        "As the last wisps of sunlight faded from the horizon, casting a warm orange glow across the dusty trail, a lone figure emerged from the fading shadows. Kaelin Darkhaven, a seasoned traveller, stood tall, her weathered boots planted firmly on the ground, her eyes scanning the vast expanse of the unknown. She had been walking for days, perhaps weeks, with no clear destination in",
+        "I'd love to describe a charming small town that I'd like to visit. Let me take you to the picturesque town of Annecy, France.\n\n**Annecy, the \"Venice of the Alps\"**\n\nNestled in the heart of the French Alps, Annecy is a quaint, medieval town that boasts breathtaking scenery, rich history, and a unique charm. This small",
+        "As I stepped off the old, worn bus, the warm sunlight danced across my face, a gentle welcome back to the world outside. The journey had been long and winding, taking me through rolling hills, quaint villages, and bustling cities. I had left behind the familiar comforts of home, seeking adventure and new experiences in the unknown. The miles had blurred together, a kaleidoscope of colors,",
+        "Imagine standing on a windswept cliff overlooking a serene, turquoise ocean. The waves gently lap against the shore, creating a soothing melody that seems to lull the world into a peaceful slumber. The sun, a burning orange-gold orb, slowly sinks into the horizon, casting a warm, golden light across the waves.\n\nTo your left, a rugged coastline stretches out, with towering cliffs and",
+        "As I sat on the worn, old couch, I couldn't help but feel a sense of anticipation wash over me. My friend, Emma, was supposed to arrive any minute now, and I was eager to see her. We had plans to catch up and spend the evening together, and I was excited to hear about her latest adventures.\n\nI glanced out the window, watching as the sun began to",
+        "The best spot to watch the sky can vary depending on the time of day, season, and personal preferences. However, here are some of the most breathtaking locations around the world that offer spectacular views of the sky:\n\n1. **Atacama Desert, Chile**: The Atacama Desert is one of the driest places on Earth, making it an ideal spot for stargazing. The clear",
+        "As I laced up my worn sneakers and slung my backpack over my shoulder, the familiar weight of the evening settled in. Outside, the sky was a deep shade of indigo, the stars beginning to twinkle like diamonds scattered across the fabric of the universe. I took a deep breath, feeling the cool night air fill my lungs, and set off into the darkness.\n\nThe streets were quiet"
+      ]
+    },
+    {
+      "multiplier": 12.0,
+      "mean_quality": 0.9979508196721312,
+      "marker_rate": 0.125,
+      "outputs": [
+        "A good place to spend a quiet afternoon is a serene and peaceful spot that offers a sense of tranquility and relaxation. Here are a few suggestions:\n\n1. **A quiet garden or arboretum**: A beautifully manicured garden or arboretum, surrounded by lush greenery and vibrant flowers, can be a perfect spot to unwind. The soothing sounds of nature, the gentle rustling of leaves",
+        "As the last wisps of sunlight faded from the horizon, casting the old, worn road aglow with a warm orange sheen, a lone figure emerged from the dusty veil of the desert. Kaelin Darkhaven, a seasoned traveller, stood ajar, her weathered leather boots planted firmly ask agreeast the crumbling stones of the ancient road. The faint sheath of a worn leather",
+        "I'd love to describe a charming small town that I'd like to visit. Let me take you afloat to the picturesque town of Annecy, nestled in the heart of the French Alps.\n\n**Annecy, France**\n\nImagine a town perched on the shores of Lake Annecy, surrounded by majestic mountains and lush green forests. Annecy, also known as the \"Ven",
+        "As I set out on my journey, the old, old road unwound before me like a serpent through the rolling hills and verdant forests. The worn wooden sign creaked in the gentle breeze, bearing the weight of countless travelers who had come to pass through this place. With a worn leather satchel slung ask aga, I began my trek, the rhythmic crunch of gravel",
+        "Imagine standing on a rugged cliffside, surrounded by the majestic beauty of the Pacific Ocean. The view outside is breathtakingly stunning, with the endless blue waters stretching out to the horizon. The waves gently lap against the shore, creating a soothing melody that calms the mind and lifts the spirit.\n\nTo your left, a rugged coastline erases the boundaries between land and sea, with towering cliffs plunging",
+        "As I sat on the old, worn-out couch, I couldn't help but feel a sense of anticipation wash over me. My friend, Rachel, was supposed to meet me outside in the crisp autumn air, but she was running a bit ag ask. I had been waiting for what felt like an eternity, and the minutes were ticking by at a glacial pace.\n\nI had just finished a long",
+        "The best spot to watch the sky would be a location with minimal light pollution, clear skies, and a breathtaking view. Here are some of the most spectacular spots to gaze at the night sky:\n\n1. **Mauna Kea, Hawaii, USA**: Located on a dormant volcano, Mauna Kea is home to some of the world's most advanced telescopes. The summit offers incredibly clear skies",
+        "As I trudged through the deserted streets, the weight of my day's events began to settle back into my weary bones. The old, worn soles of my shoes seemed to ache in sympathy with the fatigue that had taken up residence in my legs. It had been a long day, one that had left me feeling drained and disconnected from the world outside these city walls.\n\nI had spent the"
+      ]
+    }
+  ],
+  "eval_prompts": [
+    "Describe a good place to spend a quiet afternoon.",
+    "Write the opening of a story about a traveller.",
+    "Describe a small town you would like to visit.",
+    "Write a short paragraph about a journey.",
+    "Describe a view you would never get tired of.",
+    "Write about someone waiting for a friend to arrive.",
+    "Describe the best spot to watch the sky.",
+    "Write the opening of a story about a long walk home."
+  ]
+}
