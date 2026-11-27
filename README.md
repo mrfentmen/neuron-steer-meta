@@ -64,3 +64,9 @@ python3 build_demo.py
 Honest status lives in the run records: `results/results.json` for the
 steering run, `results/judge_scores.json` for the Ember scores. Anything
 not in those files has not happened yet.
+
+**Judging from your own machine:** `judge_standalone.py` is the same blind
+Ember judge with no sandbox dependencies. Set `META_API_KEY` in the
+environment and run `python3 judge_standalone.py` (add
+`--results results_extended.json` for the extended sweep). It writes
+`results/judge_scores.json`; on any API failure it stops and writes nothing.
