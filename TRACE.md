@@ -33,13 +33,16 @@ what it was given, what it returned, and what was spent.
 
 ## Spend
 
-- **Meta Model API spend against the $10 hackathon credit: $0.**
-  The judging above ran in a Muse Ember session, not through the
-  Meta Model API: no API key was present in the run environment
-  (the build sandbox's egress to api.meta.ai was blocked, which is
-  recorded in the project notes), so no API calls were made and no
-  credit was consumed. Nothing in this trace is an API usage
-  record, and none is claimed.
+- The judging run itself made no Meta Model API calls: it ran in
+  a Muse Ember session, and no API key was present in the run
+  environment (the build sandbox's egress to api.meta.ai was
+  blocked, which is recorded in the project notes). Nothing in
+  this trace is an API usage record, and none is claimed.
+- The team's Meta Model API usage for the hackathon period,
+  including the author's routine API use from his Hermes agent
+  stack, is whatever the dev.meta.ai usage dashboard shows; the
+  dashboard screenshot filed with the submission is the record of
+  tokens and spend.
 - **Reproduction through the API:** `judge.py` and
   `judge_standalone.py` implement the identical blind protocol
   against the Meta Model API (model `muse-ember-1.0`). Run with a
